@@ -1,0 +1,3 @@
+[submodule "mmi_ws"]
+	path = mmi_ws
+	url = https://github.com/tanmayJbadhan/mmi_ws.git
