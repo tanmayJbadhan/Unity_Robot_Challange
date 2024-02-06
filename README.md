@@ -10,7 +10,8 @@ docker run -it --rm -p 10000:10000 -e DISPLAY=172.30.0.1:0 unity-robotics:pose-e
 ||
 Step 3: Source the unity file by adding it as project and run it. Use port 10000:127.0.0.1 as communication port
 
-Step 4: Run Scenario2 and Scenario 3
+Step 4: Run Scenario1 and Scenario 1
+for Scenario 3:
 
 Step 5: Its not device agnostic, but I will provide a docker image in future
 
